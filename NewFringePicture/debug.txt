@@ -1,0 +1,4 @@
+..\pictures\InverseIndex\Transverse16-90.bmp
+..\pictures\InverseIndex\Transverse16-180.bmp
+..\pictures\InverseIndex\Transverse16-270.bmp
+..\pictures\InverseIndex\Transverse16-0.bmp
